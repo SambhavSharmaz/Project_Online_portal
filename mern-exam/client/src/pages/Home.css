@@ -1,0 +1,21 @@
+  .home-card {
+    text-align: center;
+  }
+  
+  .home-card .ant-card-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+  
+  .home-card .ant-card-meta-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .home-card .ant-card-meta-description {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.45);
+  }
+  

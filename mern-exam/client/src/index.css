@@ -1,0 +1,37 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.layout {
+  min-height: 100vh;
+}
+
+.ant-layout-header {
+  background-color: #001529;
+}
+
+.logo {
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.ant-menu-dark .ant-menu-item-selected {
+  background-color: #1890ff;
+}
+
+.ant-menu-dark .ant-menu-item {
+  font-size: 16px;
+}
+
+.ant-list-item-meta-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ant-list-item-meta-description {
+  font-size: 16px;
+}
